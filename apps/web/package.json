@@ -70,7 +70,7 @@
     "@storybook/nextjs": "7.0.0-rc.8",
     "@storybook/react": "7.0.0-rc.8",
     "@storybook/testing-library": "0.0.14-next.1",
-    "@storybook/theming": "^6.5.16",
+    "@storybook/theming": "^7.0.0",
     "@types/node": "^18.15.6",
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
